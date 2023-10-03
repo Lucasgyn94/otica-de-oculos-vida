@@ -1,3 +1,11 @@
+## Desenvolvimento de uma Web Page de óculos com a biblioteca do ReactJS. 
+Projeto divido em camadas e Componentes. Web Page responsiva, que se adequa aos diferentes tamanho de telas.
+
+### Link: https://oticas-vida-pi.vercel.app/
+
+![image](https://github.com/Lucasgyn94/otica-de-oculos-vida/assets/91031320/b8791f5c-5380-4a53-a407-a72b7e8f6b48)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
